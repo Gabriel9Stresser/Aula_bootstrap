@@ -1,0 +1,35 @@
+body{
+    font: 20px Arial, sans-serif;
+    color: black;
+}
+
+.navbar {
+    background-color: #42ff8e
+}
+
+.QuemSomos {
+    background-color:#ffffe0;
+    color: black;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color: #ffd7d3;
+}
+
+.contatos {
+    background-color: rebeccapurple;
+}
+
+.h3 {
+    padding-top: 30px; 
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
